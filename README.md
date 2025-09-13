@@ -282,6 +282,7 @@ echo "GEMINI_API_KEY=your_gemini_api_key_here" > frontend/.env.local
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 </p>
+
 - **Language**: TypeScript 5.0+
 - **AI Platform**: Google Gemini 2.5 Flash
 - **Package Manager**: npm
