@@ -8,7 +8,7 @@
   <img src="https://i.imgur.com/J60evuy.png" alt="조각조각 글씨" width="200"/>
 </p>
                                                                                                                                     
-  <p><strong>노인과 보호자를 위한 추억 기록 및 관리 플랫폼</strong></p>
+  <p align="center"><strong>노인과 보호자를 위한 추억 기록 및 관리 플랫폼</strong></p>
   
   ![React](https://img.shields.io/badge/React-19.1.1-61DAFB?style=for-the-badge&logo=react&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-5.8.2-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
