@@ -26,35 +26,53 @@
 ### 🎯 주요 기능
 
 ### 👴👵 노인용 기능
+1. **📸 추억 기록 & 추억 지도**
+   - 사진, 장소, 날짜, 제목 입력으로 추억 기록
+   - 기록된 추억은 지도에 핀으로 표시되어 **추억 지도 완성**
+2. **🧠 AI 인물 분석**
+   - 사진 속 가족·지인을 인식하여 이름과 관계 표시
+   - 기억이 어려운 어르신도 **사진으로 확인 가능**
+3. **📝 일기 작성 & AI 감정 분석**
+   - 작성한 일기를 AI가 분석하여 감정 상태 파악
+   - 보호자가 **어르신의 감정 이해** 가능
+4. **💊 약물 관리**
+   - 복용 시간 알림 및 관리
+5. **🗺️ 위치 공유**
+   - 실시간 위치 정보 공유
+6. **📱 간편한 UI**
+   - 노인 친화적인 직관적 인터페이스
 
-| 기능 | 설명 |
-|------|------|
-| **📸 추억 기록 & 추억 지도** | 사진, 장소, 날짜, 제목 입력으로 추억 기록. 기록된 추억은 지도에 핀으로 표시되어 **추억 지도 완성** |
-| **🧠 AI 인물 분석** | 사진 속 가족·지인을 인식하여 이름과 관계 표시. 기억이 어려운 어르신도 **사진으로 확인 가능** |
-| **📝 일기 작성 & AI 감정 분석** | 작성한 일기를 AI가 분석하여 감정 상태 파악. 보호자가 **어르신의 감정 이해** 가능 |
-| **💊 약물 관리** | 복용 시간 알림 및 관리 |
-| **🗺️ 위치 공유** | 실시간 위치 정보 공유 |
-| **📱 간편한 UI** | 노인 친화적인 직관적 인터페이스 |
-
----
 
 ### 👨‍👩‍👧‍👦 보호자용 기능
-
-| 기능 | 설명 |
-|------|------|
-| **🗺️ 추억 지도 확인** | 어르신이 기록한 **추억과 사진을 지도에서 한눈에 확인**. 가족과 어르신의 **소중한 장소 추억 관리 가능** |
-| **🧑‍🤝‍🧑 AI 인물 정보 확인** | 촬영 사진 속 인물의 **이름과 관계** 확인 |
-| **📊 일기 감정 리포트 확인** | 어르신 일기 기반 AI 감정 분석 결과 확인 |
-| **🔔 알림 관리** | 약물 복용, 위치 등 알림 수신 |
-| **📷 갤러리 관리** | 노인이 촬영한 사진 관리 |
-| **🗺️ 위치 추적** | 실시간 위치 확인 |
-| **📱 통합 관리** | 모든 정보를 한 곳에서 관리 |
+1. **🗺️ 추억 지도 확인**
+   - 어르신이 기록한 **추억과 사진을 지도에서 한눈에 확인**
+   - 가족과 어르신의 **소중한 장소 추억 관리 가능**
+2. **🧑‍🤝‍🧑 AI 인물 정보 확인**
+   - 촬영 사진 속 인물의 **이름과 관계** 확인
+3. **📊 일기 감정 리포트 확인**
+   - 어르신 일기 기반 AI 감정 분석 결과 확인
+4. **🔔 알림 관리**
+   - 약물 복용, 위치 등 알림 수신
+5. **📷 갤러리 관리**
+   - 노인이 촬영한 사진 관리
+6. **🗺️ 위치 추적**
+   - 실시간 위치 확인
+7. **📱 통합 관리**
+   - 모든 정보를 한 곳에서 관리
 
 ---
 
 ## 🚀 기술 스택
 
 ### Frontend
+<p align="center">
+  <img src="https://img.shields.io/badge/React-19.1.1-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-5.8.2-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Vite-6.2.0-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini"/>
+</p>
+
 - **Framework**: React 19.1.1
 - **Language**: TypeScript 5.8.2
 - **Build Tool**: Vite 6.2.0
@@ -63,6 +81,15 @@
 - **State Management**: React Hooks + Local Storage
 
 ### Backend
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring_Boot-3.5.5-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Java-24-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+  <img src="https://img.shields.io/badge/Swagger-OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger"/>
+</p>
+
 - **Framework**: Spring Boot 3.5.5
 - **Language**: Java 24
 - **Database**: PostgreSQL
@@ -71,6 +98,14 @@
 - **Build Tool**: Gradle
 
 ### Infrastructure
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+  <img src="https://img.shields.io/badge/Local_File_System-808080?style=for-the-badge&logo=folder&logoColor=white" alt="Local File System"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</p>
+
 - **Database**: PostgreSQL
 - **Authentication**: JWT (JSON Web Token)
 - **File Storage**: Local File System
