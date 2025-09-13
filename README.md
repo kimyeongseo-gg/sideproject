@@ -10,11 +10,14 @@
                                                                                                                                     
   <p align="center"><strong>노인과 보호자를 위한 추억 기록 및 관리 플랫폼</strong></p>
 
-  ![React](https://img.shields.io/badge/React-19.1.1-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-5.8.2-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Vite](https://img.shields.io/badge/Vite-6.2.0-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/React-19.1.1-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-5.8.2-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Vite-6.2.0-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini"/>
+</p>
+
 
 
 ---
@@ -80,6 +83,8 @@
 - **AI Integration**: Google Gemini AI
 - **State Management**: React Hooks + Local Storage
 
+  
+
 ### Backend
 
 <p align="center">
@@ -97,6 +102,8 @@
 - **API Documentation**: Swagger/OpenAPI 3
 - **Build Tool**: Gradle
 
+
+
 ### Infrastructure
 
 <p align="center">
@@ -110,6 +117,8 @@
 - **Authentication**: JWT (JSON Web Token)
 - **File Storage**: Local File System
 - **Deployment**: Docker (Optional)
+
+---
 
 ## 📁 프로젝트 구조
 
